@@ -7,7 +7,7 @@ export const SITE_DESCRIPTION = "Homepage for Sprite Pro Wrestling";
 
 export const FAVICON_SRC = '/favicon.svg';
 
-export const AVATAR_SRC = '/avatar.avif';
+export const AVATAR_SRC = '/SpriteProWrestling.png';
 
 export const BIO = "Dropping my thoughts here for now.";
 
