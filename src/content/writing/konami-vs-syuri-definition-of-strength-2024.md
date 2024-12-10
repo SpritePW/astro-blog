@@ -19,7 +19,7 @@ notCompleted: false
             <img src="/kvs2024/2021112702.jpg" alt="Konami and Syuri show a sign of respect after their UWF Match" width="100%" />
             <span>Konami and Syuri show a sign of respect after their UWF Match</span>
         </div>
-        <div style="float: right; margin: 5px 0 15px 15px; width: 400px; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
+        <div style="float: right; margin: 5px 0 15px 15px; width: 40%; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
             <img src="/kvs2024/2021030301-600x400.jpg" alt="Konami and Syuri's encounter at the Nippon Budokan" width="100%" />
             <span style="font-size: 0.75rem; padding: 5px;">Konami and Syuri's encounter at the Nippon Budokan</span>
         </div>
@@ -32,7 +32,7 @@ notCompleted: false
         <p>
             Among these opponents was Konami. Their match was scheduled for October 9, 2021, at Osaka-jo Hall. Both Syuri’s contract and her SWA World Championship were on the line and was to be contested under UWF rules, which celebrated their shared roots in martial arts while serving as a proving ground for Konami to demonstrate whether the gap between student and master had finally narrowed. Unfortunately, the match had to be postponed when Konami was forced to withdraw due to acute enteritis. She was replaced by her Oedo Tai comrade, Saki Kashima, who ultimately lost to Syuri. Despite securing victory, Syuri expressed her determination to eventually face Konami in the ring.
         </p>
-        <div style="float: left; display: flex; flex-direction: column; margin: 5px 15px 15px 0; width: 225px; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
+        <div style="float: left; display: flex; flex-direction: column; margin: 5px 15px 15px 0; width: 25%; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
             <img src="/kvs2024/20211204.jpg" alt="Konami announcing her departure from Stardom" width="100%" />
             <span style="font-size: 0.75rem; padding: 5px;">Konami announcing her departure from Stardom</span>
         </div>
@@ -40,17 +40,17 @@ notCompleted: false
             The long-awaited showdown was rescheduled for November 27, 2021, at Yoyogi National Gymnasium #2. In a gruelling contest, Syuri emerged victorious after delivering a decisive Buzzsaw Kick that knocked Konami out. Following the match, the two exchanged gestures of respect, reaffirming their relationship as student and master and that the gap between them was still too large.
         </p>
         <p>
-            Shortly after, on December 4, 2021, Konami announced her decision to leave Stardom at the end of the year to focus on treating her health issues. She revealed in Weekly Pro Wrestling that she had been dealing with acute enteritis for two years, with flare-ups requiring hospitalization each time. This decision had been made before her originally scheduled match with Syuri on October 9, and was communicated to both Syuri and Stardom that same day. Her final match was set for December 29, 2021, at Ryogoku Kokugikan against Giulia.
+            Shortly after, on December 4, 2021, Konami announced her decision to leave Stardom at the end of the year to focus on treating her health issues. She revealed in <a href="https://wp.bbm-mobile.com/sp2/EBook/Detail.asp?mi=1678">Weekly Pro Wrestling</a> that she had been dealing with acute enteritis for two years, with flare-ups requiring hospitalization each time. This decision had been made before her originally scheduled match with Syuri on October 9, and was communicated to both Syuri and Stardom that same day. Her final match was set for December 29, 2021, at Ryogoku Kokugikan against Giulia.
         </p>
         <p>
             In the weeks leading up to her farewell match, Konami wrapped up her remaining commitments. She played a key role in helping Oedo Tai recruit Momo Watanabe from Queen’s Quest, teamed with Fukigen Death one final time before transferring ownership of Fukigen to Saki Kashima, and partnered with Syuri for a final tag team match against Maika and Unagi Sayaka —both of whom had sought a match with Konami before her departure.
         </p>
-        <div style="float: right; margin: 5px 0 15px 15px; width: 400px; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
+        <div style="float: right; margin: 5px 0 15px 15px; width: 40%; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
             <img src="/kvs2024/20211229-600x400.jpg" alt="Syuri meeting with Konami at commentary to celebrate her victory against Utami Hayashishita" width="100%" />
             <span style="font-size: 0.75rem; padding: 5px;">Syuri meeting with Konami at commentary to celebrate her victory against Utami Hayashishita</span>
         </div>
         <p>
-            On December 29, 2021, at Ryogoku Kokugikan, Konami wrestled her farewell match against Giulia. For this special occasion, she shed Oedo Tai's colors and donned the colors of Tokyo Cyber Squad, the unit founded by her late friend Hana Kimura. The match paid tribute to Tokyo Cyber Squad, featuring callbacks to signature moves of both Hana Kimura and Jungle Kyona, another prominent member of Tokyo Cyber Squad. After the match, Konami was presented with a commemorative flag emblazoned with a variation of her catchphrase: “NEVER END,” a hopeful twist on “THE END.” This gesture symbolized that while Konami was stepping away, her journey in wrestling was far from over.
+            On December 29, 2021, at Ryogoku Kokugikan, Konami wrestled her farewell match against Giulia. For this special occasion, she shed Oedo Tai's colors and donned the colors of Tokyo Cyber Squad, the unit founded by her late friend Hana Kimura. The match paid tribute to Tokyo Cyber Squad, featuring callbacks to signature moves of both Hana Kimura and Jungle Kyona, another prominent member of Tokyo Cyber Squad. After the match, Konami was presented with a commemorative flag marked with a variation of her catchphrase: “NEVER END,” a hopeful twist on “THE END.” This gesture symbolized that while Konami was stepping away, her journey in wrestling was far from over.
         </p>
         <p>
             Later that evening, Syuri faced Utami Hayashishita in their long-anticipated showdown for the World of Stardom Championship, with the SWA World Championship also on the line. Konami served as the guest commentator for the match and witnessed Syuri’s hard-fought victory. After the match, Syuri met with Konami at the commentary table and they shared an embrace to celebrate while also allowing Konami to express her hope that Syuri would retain the title until Konami’s eventual full-time return to the ring.
@@ -60,7 +60,7 @@ notCompleted: false
             <img src="/kvs2024/20220403.jpg" alt="KThe founding members of God's Eye (from left to right): MIRAI, Syuri and Ami Sohrei" width="100%" />
             <span>The founding members of God's Eye (from left to right): MIRAI, Syuri and Ami Sohrei</span>
         </div>
-        <div style="float: right; margin: 5px 0 15px 15px; width: 400px; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
+        <div style="float: right; margin: 5px 0 15px 15px; width: 40%; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
             <img src="/kvs2024/20220321.jpg" alt="Syuri announcing her departure from Donna Del Mondo" width="100%" />
             <span style="font-size: 0.75rem; padding: 5px;">Syuri announcing her departure from Donna Del Mondo</span>
         </div>
@@ -76,7 +76,7 @@ notCompleted: false
         <p>
             After leaving Stardom, Konami returned to her hometown of Fukuyama. Alongside continuing the treatment for her condition, she resumed training under MMA legend Megumi Fujii. Fujii, a pivotal figure in shaping Konami’s wrestling style, now played a crucial role in helping her refine her technique and rebuild the strength necessary for her eventual return to wrestling.
         </p>
-        <div style="float: left; margin: 0 15px 15px 0; width: 400px; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
+        <div style="float: left; margin: 0 15px 15px 0; width: 40%; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
             <img src="/kvs2024/20220507-600x400.jpg" alt="Konami passing on the moniker of the 'Fighting Princess' to MIRAI" width="100%" />
             <span style="font-size: 0.75rem; padding: 5px;">Konami passing on the moniker of the "Fighting Princess" to MIRAI</span>
         </div>
@@ -86,7 +86,7 @@ notCompleted: false
         <p>
             Eventually, by the end of 2022, Syuri would relinquish her position as Stardom’s strongest wrestler, losing the World of Stardom Championship to Giulia. This marked the end of a dominant reign during which Syuri had overcome formidable challengers, including Mayu Iwatani, Risa Sera, Momo Watanabe, Tam Nakano, Nanae Takahashi, and a rematch with former World of Stardom Champion Utami Hayashishita.
         </p>
-        <div style="float: right; margin: 5px 0 15px 15px; width: 400px; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
+        <div style="float: right; margin: 5px 0 15px 15px; width: 40%; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
             <img src="/kvs2024/champions.jpg" alt="MIRAI and Ami Sohrei as the Wonder of Stardom and Future of Stardom champions respectively" width="100%" />
             <span style="font-size: 0.75rem; padding: 5px;">MIRAI and Ami Sohrei as the Wonder of Stardom and Future of Stardom champions respectively</span>
         </div>
@@ -101,7 +101,7 @@ notCompleted: false
             <img src="/kvs2024/20230901.jpg" alt="MIRAI and Konami at the press conference for their Wonder of Stardom Championship match" width="100%" />
             <span>MIRAI and Konami at the press conference for their Wonder of Stardom Championship match</span>
         </div>
-        <div style="float: left; margin: 5px 15px 15px 0; width: 400px; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
+        <div style="float: left; margin: 5px 15px 15px 0; width: 40%; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
             <img src="/kvs2024/20230702-600x400.jpg" alt="Saki Kashima joining God's Eye" width="100%" />
             <span style="font-size: 0.75rem; padding: 5px;">Saki Kashima joining God's Eye</span>
         </div>
@@ -111,7 +111,7 @@ notCompleted: false
         <p>
             Konami teamed with Saki for the first time since she joined God’s Eye, alongside the rest of the group, on August 8 2023. Unfortunately, the match ended in a loss, with Saki taking the fall. This prompted Konami to voice her frustrations, criticizing Saki for her weakness and questioning why someone like her, who contradicted the group's core values, was allowed to join God’s Eye. MIRAI, defending Saki, argued that Saki was growing stronger in her own way. This exchange eventually led to Konami challenging MIRAI for the Wonder of Stardom Championship on September 3 2023, with the match evolving into a battle over the philosophy and direction of God’s Eye.
         </p>
-        <div style="float: right; margin: 5px 0 15px 15px; width: 400px; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
+        <div style="float: right; margin: 5px 0 15px 15px; width: 40%; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
             <img src="/kvs2024/20230903hiroshima-600x400.jpg" alt="MIRAI appeals for Konami to accept Saki Kashima into God's Eye" width="100%" />
             <span style="font-size: 0.75rem; padding: 5px;">MIRAI appeals for Konami to accept Saki Kashima into God's Eye</span>
         </div>
@@ -129,7 +129,7 @@ notCompleted: false
             <img src="/kvs2024/20240416.jpg" alt="Konami announcing her full time return to Stardom" width="100%" style="object-fit: cover; aspect-ratio: 949 / 633;"/>
             <span>Konami announcing her full time return to Stardom</span>
         </div>
-        <div style="float: right; margin: 5px 0 15px 15px; width: 400px; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
+        <div style="float: right; margin: 5px 0 15px 15px; width: 40%; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
             <img src="/kvs2024/20240427.jpg" alt="God's Eye celebrating a win for Konami's full time return" width="100%" />
             <span style="font-size: 0.75rem; padding: 5px;">God's Eye celebrating a win for Konami's full time return</span>
         </div>
@@ -139,7 +139,7 @@ notCompleted: false
         <p>
             Konami’s first opportunity to pursue a title for God’s Eye came on May 18 2024, when she teamed with Saki Kashima and Syuri in a tag gauntlet match to determine the number-one contenders for the Artist of Stardom titles. Despite their collective efforts, they ultimately fell to Oedo Tai, who relied on underhanded tactics to secure the victory. Konami took the fall, a result that weighed heavily on her as she viewed it as a personal failure in her mission to strengthen God’s Eye, but also potentially highlighting a key weakness within her.
         </p>
-        <div style="float: left; display: flex; flex-direction: column; margin: 5px 15px 15px 0; width: 300px; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
+        <div style="float: left; display: flex; flex-direction: column; margin: 5px 15px 15px 0; width: 30%; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
             <img src="/kvs2024/20240630.jpg" alt="Konami using a chair to help pick up the victory against FWC" width="100%;"/>
             <span style="font-size: 0.75rem; padding: 5px;">Konami using a chair to help pick up the victory against FWC</span>
         </div>
@@ -155,7 +155,7 @@ notCompleted: false
         <p>
             During their title defence, Konami and Syuri faced intense pressure from Oedo Tai. Despite their best efforts, Konami once again turned to a weapon to shift the tide in their favor. Syuri intervened, stopping Konami from using the weapon and insisting they win fairly. For Konami, Syuri's moment of restraint likely symbolized the weakness she had long sought to overcome, as Syuri prioritized integrity over the results that Konami valued most. In a shocking betrayal, she turned on Syuri mid-match, allowing Momo and Thekla to capitalize and claim the Goddesses of Stardom titles.
         </p>
-        <div style="float: right; margin: 5px 0 15px 15px; width: 400px; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
+        <div style="float: right; margin: 5px 0 15px 15px; width: 40%; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
             <img src="/kvs2024/20240724_korakuen.jpg" alt="Konami berates Syuri and God's Eye after betraying them" width="100%" />
             <span style="font-size: 0.75rem; padding: 5px;">Konami berates Syuri and God's Eye after betraying them</span>
         </div>
@@ -168,12 +168,12 @@ notCompleted: false
         <p>
             Oedo Tai rebranded itself as H.A.T.E. after Natsuko Tora captured the World of Stardom Championship from Maika with assistance from her faction members and their newest recruit, Saya Kamitani. Declaring their ambition to dominate not just Stardom but the entire world of women’s wrestling, H.A.T.E. solidified its position as the antagonistic force in the promotion.
         </p>
-        <div style="float: left; display: flex; flex-direction: column; margin: 5px 15px 15px 0; width: 300px; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
+        <div style="float: left; display: flex; flex-direction: column; margin: 5px 15px 15px 0; width: 30%; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px;" >
             <img src="/kvs2024/20241207.jpg" alt="Konami standing over Syuri after challenging her to a match at Ryogoku Kokugikan" width="100%;"/>
             <span style="font-size: 0.75rem; padding: 5px;">Konami standing over Syuri after challenging her to a match at Ryogoku Kokugikan</span>
         </div>
         <p>
-            Syuri, reflecting on the betrayal with Tokyo Sports, acknowledged Konami’s decision to betray God's Eye but expressed doubt about whether this path would bring her the fulfilment she sought. Nonetheless, Syuri vowed to put an end to Konami and her new faction, H.A.T.E., as she could not forgive the betrayal of trust that shattered their bond.
+            Syuri, reflecting on the betrayal with <a href="https://www.tokyo-sports.co.jp/articles/-/317995">Tokyo Sports</a>, acknowledged Konami’s decision to betray God's Eye but expressed doubt about whether this path would bring her the fulfilment she sought. Nonetheless, Syuri vowed to put an end to Konami and her new faction, H.A.T.E., as she could not forgive the betrayal of trust that shattered their bond.
         </p>
         <p>
             This development also triggered a change within God’s Eye, especially for Saki Kashima. While she retained her slacker tendencies, Saki began to take wrestling more seriously—though only really when facing H.A.T.E. This reflected her determination to prove that God’s Eye's faith in her over the past year was well-placed, and to ultimately challenge Konami’s dismissive view of the group.
