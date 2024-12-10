@@ -22,7 +22,7 @@ const {slug, heroImage, title, pubDate, description} = Astro.props
 >
     <a
         class='img-container'
-        href={`/blog/${slug}`}
+        href={`/writing/${slug}`}
     >
         {
             heroImage === undefined ?
@@ -35,7 +35,7 @@ const {slug, heroImage, title, pubDate, description} = Astro.props
         }
     </a>
     <h4>
-        <a class="link" href={`/blog/${slug}`}>
+        <a class="link" href={`/writing/${slug}`}>
             {title}
         </a>
     </h4>

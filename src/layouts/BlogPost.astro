@@ -7,7 +7,7 @@ import Card from '@/components/Card.astro';
 import {GLOBAL_STYLE} from "../consts";
 import "../styles/article.scss"
 
-type Props = CollectionEntry<'blog'>['data'];
+type Props = CollectionEntry<'writing'>['data'];
 
 const {title, description} = Astro.props;
 ---
@@ -22,7 +22,7 @@ const {title, description} = Astro.props;
 <main>
     <Card variant={GLOBAL_STYLE}>
         <article>
-            <h1 class="emphasize">
+            <h1 class="emphasize" style="text-align: center;">
                 {title}
             </h1>
             <slot/>
