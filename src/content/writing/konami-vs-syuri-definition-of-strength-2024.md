@@ -1,7 +1,7 @@
 ---
 title: "Konami vs Syuri: The Definition of Strength"
 description: "Covering the rivalry between Konami and Syuri, from Konami's initial departure from Stardom to her return, while exploring the themes of strength."
-pubDate: "Dec 15 2024"
+pubDate: "Dec 11 2024"
 heroImage: "/kvs2024/konamivssyuri.jpg"
 pinned: true
 notCompleted: false
@@ -12,7 +12,7 @@ notCompleted: false
         <h3 style="text-align: center; margin-top: -15px;">Covering the rivalry between Konami and Syuri, from Konami's initial departure from Stardom to her return, while exploring the themes of strength.</h1>
         <img src="/kvs2024/konamivssyuri.jpg" alt="Konami vs Syuri" width="100%"/>
         <p>
-            I briefly looked into the history of Syuri and Konami leading to their match at the Nippon Budokan on March 3 2021 previously, which you can find <a href="https://twitter.com/CanofSpriteMan/status/1362344225682161666">here</a>.
+            I briefly looked into the history of Syuri and Konami leading to their match at the Nippon Budokan on March 3 2021 previously, which you can find on <a href="https://twitter.com/CanofSpriteMan/status/1362344225682161666">Twitter</a>.
         </p>
         <h2 style="text-align: center">Never End: The Relationship of Student and Master</h2>
         <div style="width: 100%; background: lightgray; text-align: center; padding-bottom: 5px; border-radius: 2px; margin-bottom: 15px;">
