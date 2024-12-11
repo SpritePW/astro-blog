@@ -41,6 +41,10 @@ const posts = (await getCollection('writing'))
                     <a class="icon-link" href="https://x.com/CanofSpriteMan" target="_blank" aria-label="Twitter">
                         <SiTwitter size={32} />
                     </a>
+                    
+                    <a class="icon-link" href="https://bsky.app/profile/sprite.newlegacyinc.tv" target="_blank" aria-label="Twitter">
+                        <img height="32" width="32" src="https://cdn.simpleicons.org/bluesky/1b1b17" />
+                    </a>
                 </div>
             </div>
         </section>
@@ -124,7 +128,8 @@ const posts = (await getCollection('writing'))
         display: flex;
         align-items: center;
         flex-wrap: wrap;
-        margin-top: .25rem
+        margin-top: .25rem;
+        gap: 1rem;
     }
 
     .icon-link {
