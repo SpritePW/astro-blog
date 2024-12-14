@@ -6,7 +6,7 @@ import {SITE_TITLE, SITE_DESCRIPTION} from '@/consts';
 import {getCollection} from 'astro:content';
 import PostCard from "@/components/PostCard.astro";
 
-const posts = (await getCollection('writing'))
+const posts = (await getCollection('project'))
     .filter(post => !post.data.notCompleted)
     .sort(
         (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -24,7 +24,7 @@ const posts = (await getCollection('writing'))
     <section>
         {
             posts.map((post) => (
-                    <PostCard {...post.data} slug={post.slug} collection={'writing'}/>
+                    <PostCard {...post.data} slug={post.slug} collection={'project'}/>
             ))
         }
     </section>

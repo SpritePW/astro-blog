@@ -8,7 +8,12 @@ import {SITE_TITLE, SITE_DESCRIPTION, GLOBAL_STYLE, BIO, AVATAR_SRC} from '../co
 import Card from '@/components/Card.astro';
 import PostCard from "../components/PostCard.astro";
 
-const posts = (await getCollection('writing'))
+const writing_posts = (await getCollection('writing'))
+    .filter(post => post.data.pinned)
+    .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+    
+const project_posts = (await getCollection('project'))
     .filter(post => post.data.pinned)
     .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
@@ -52,13 +57,26 @@ const posts = (await getCollection('writing'))
 
     <Card variant={GLOBAL_STYLE}>
         <h3>
-            Pinned Posts
+            Pinned Writing
         </h3>
     </Card>
     <section id="pinned-container">
         {
-            posts.map((post) => (
-                    <PostCard {...post.data} slug={post.slug}/>
+            writing_posts.map((post) => (
+                    <PostCard {...post.data} slug={post.slug} collection={'writing'}/>
+            ))
+        }
+    </section>
+
+        <Card variant={GLOBAL_STYLE}>
+        <h3>
+            Pinned Projects
+        </h3>
+    </Card>
+    <section id="pinned-container">
+        {
+            project_posts.map((post) => (
+                    <PostCard {...post.data} slug={post.slug} collection={'project'}/>
             ))
         }
     </section>
