@@ -9,8 +9,6 @@ notCompleted: false
 
 <div style="display: flex; align-items: center; flex-direction: column;">
     <div style="width: 90%;">
-        <h3 style="text-align: center; margin-top: -15px;">Covering the rivalry between Konami and Syuri, from Konami's initial departure from Stardom to her return, while exploring the themes of strength.</h1>
-        <img src="/kvs2024/konamivssyuri.jpg" alt="Konami vs Syuri" width="100%"/>
         <p>
             I briefly looked into the history of Syuri and Konami leading to their match at the Nippon Budokan on March 3 2021 previously, which you can find on <a href="https://twitter.com/CanofSpriteMan/status/1362344225682161666">Twitter</a>.
         </p>
