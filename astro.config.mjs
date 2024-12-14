@@ -25,6 +25,6 @@ export default defineConfig({
       }
     }
   },
-  site: 'https://astro.koibumi.art/',
+  site: 'https://spritepw.com/',
   integrations: [mdx(), sitemap(), solidJs()]
 });
