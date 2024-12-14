@@ -9,7 +9,7 @@ export const FAVICON_SRC = '/favicon.svg';
 
 export const AVATAR_SRC = '/SpriteProWrestling.png';
 
-export const BIO = "Dropping my thoughts here for now.";
+export const BIO = "Thoughts on wrestling, programming and anything else I'm interested in";
 
 export const GLOBAL_STYLE: 'quartz' | 'glass' | 'lightGlass' = 'glass'
 
