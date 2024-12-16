@@ -226,7 +226,7 @@ notCompleted: false
     padding: 5px;
   }
 
-  @media (max-width: 480px) {
+  @media (max-width: 800px) {
     .article-image {
         display: block;
     }   
