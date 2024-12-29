@@ -11,7 +11,7 @@ export const AVATAR_SRC = '/SpriteProWrestling.png';
 
 export const BIO = "Thoughts on wrestling, programming and anything else I'm interested in";
 
-export const GLOBAL_STYLE: 'quartz' | 'glass' | 'lightGlass' = 'quartz'
+export const GLOBAL_STYLE: 'quartz' | 'glass' | 'lightGlass' = 'glass'
 
 export const COPYRIGHT_NAME = 'Sprite Pro Wrestling';
 

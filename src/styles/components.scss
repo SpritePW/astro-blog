@@ -34,7 +34,7 @@
     box-shadow: 0.125rem 0.125rem 0.5rem rgba($color-slate-400, 0.2);
 
     &.glass {
-      background-color: rgba($color-slate-700, 0.3);
+      background-color: rgba($color-slate-700, 0.6);
       border-color: $color-slate-700;
     }
 
@@ -60,7 +60,7 @@
   }
 
   &.glass {
-    background-color: rgba($color-slate-50, 0.3);
+    background-color: rgba($color-slate-50, 0.5);
     backdrop-filter: blur(18px);
   }
 
