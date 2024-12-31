@@ -17,6 +17,7 @@ the mod bypass built as a DLL (source code of this can be found [here](https://g
 You can find the source code of the launcher itself [here](https://github.com/GACastro95/AEWFFLauncher)
 
 <h5>First Time Setup</h5>
+
 1. Launch the program
 2. Navigate to the setup window
 3. Set the folder to the root game directory of AEW Fight Forever, this is normally under /steamapps/common/AEWFightForever. If you have your modded version of the game installed seperately from the vanilla version you can set this here as well.
