@@ -12,5 +12,6 @@ This is a browser extension for newLEGACYinc videos and streams. It will send yo
 Currently available for Chrome and Firefox based browsers.
 
 Download Links:
-[Chrome Store](https://chromewebstore.google.com/detail/newlegacyinc/phmfghceoibmdlhbjhgpedkimpnibmea)
-[Firefox Add-Ons](https://addons.mozilla.org/en-GB/firefox/addon/newlegacyinc/)
+
+- [Chrome Store](https://chromewebstore.google.com/detail/newlegacyinc/phmfghceoibmdlhbjhgpedkimpnibmea)
+- [Firefox Add-Ons](https://addons.mozilla.org/en-GB/firefox/addon/newlegacyinc/)
