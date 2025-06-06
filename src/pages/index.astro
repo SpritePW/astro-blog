@@ -15,7 +15,7 @@ import {
 import Card from "@/components/Card.astro";
 import PostCard from "../components/PostCard.astro";
 
-const writing_posts = (await getCollection("writing"))
+const wrestling_posts = (await getCollection("wrestling"))
   .filter((post) => post.data.pinned)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
@@ -83,23 +83,6 @@ const project_posts = (await getCollection("project"))
         </section>
       </Card>
 
-      <Show when={writing_posts.length > 0}>
-        <Card variant={GLOBAL_STYLE}>
-          <h3>Pinned Writing</h3>
-        </Card>
-        <section id="pinned-container">
-          {
-            writing_posts.map((post) => (
-              <PostCard
-                {...post.data}
-                slug={post.slug}
-                collection={"writing"}
-              />
-            ))
-          }
-        </section>
-      </Show>
-
       <Show when={project_posts.length > 0}>
         <Card variant={GLOBAL_STYLE}>
           <h3>Pinned Projects</h3>
@@ -111,6 +94,23 @@ const project_posts = (await getCollection("project"))
                 {...post.data}
                 slug={post.slug}
                 collection={"project"}
+              />
+            ))
+          }
+        </section>
+      </Show>
+
+      <Show when={wrestling_posts.length > 0}>
+        <Card variant={GLOBAL_STYLE}>
+          <h3>Pinned Wrestling</h3>
+        </Card>
+        <section id="pinned-container">
+          {
+            wrestling_posts.map((post) => (
+              <PostCard
+                {...post.data}
+                slug={post.slug}
+                collection={"wrestling"}
               />
             ))
           }
