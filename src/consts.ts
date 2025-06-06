@@ -7,7 +7,7 @@ export const SITE_DESCRIPTION = "Homepage for SpritePW";
 
 export const FAVICON_SRC = '/favicon.svg';
 
-export const AVATAR_SRC = '/SpriteProWrestling.png';
+export const AVATAR_SRC = '/SpritePW.png';
 
 export const BIO = "Full-Stack Developer with an interest in wrestling. Member of newLEGACYinc.";
 
