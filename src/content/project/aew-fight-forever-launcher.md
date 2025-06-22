@@ -3,7 +3,7 @@ title: "AEW Fight Forever Game Launcher"
 description: "Game Launcher for AEW: Fight Forever which allows you to choose between vanilla and modded instances of the game."
 pubDate: "Jul 10 2024"
 heroImage: "/aewffgl/gamelauncher.webp"
-pinned: true
+pinned: false
 notCompleted: false
 ---
 
