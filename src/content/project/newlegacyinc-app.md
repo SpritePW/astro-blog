@@ -2,7 +2,7 @@
 title: "newLEGACYinc Mobile Application"
 description: "Mobile App for newLEGACYinc built in Flutter"
 pubDate: "Jun 21 2025"
-heroImage: "/nlweb/mobile1.png"
+heroImage: "/nlapp/mobile1.png"
 pinned: true
 notCompleted: false
 ---
